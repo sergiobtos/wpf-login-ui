@@ -3,7 +3,7 @@
 
 Project created using .NET WPF Application ( C# Windows Desktop).
 
-Simple Login/Signup UI
+Simple Login/Register UI
 
 
 ## Demo
